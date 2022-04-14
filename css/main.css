@@ -63,3 +63,8 @@ p {
     background-color: gray;
     clear: both;
 }
+.but{
+    width: fit-content;
+    margin: auto;
+
+}
