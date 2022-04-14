@@ -25,13 +25,13 @@ p {
     background-color: cadetblue;
     margin: 10px;
     padding: 40px;
-    border-color: aliceblue;
+    border-color: rgb(22, 77, 125);
     border-radius: 15px;
     margin-left: auto;
     margin-right: auto;
     font-size: 10px;
     color: aliceblue;
-    box-shadow: 5px 5px black
+    box-shadow: 5px 5px rgb(14, 121, 140)
         
 }
 .container {
